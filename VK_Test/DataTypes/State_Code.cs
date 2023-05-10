@@ -1,0 +1,8 @@
+﻿namespace VK_Test.DataTypes
+{
+    public enum State_Code
+    {
+        Active = 0,
+        Blocked
+    }
+}
